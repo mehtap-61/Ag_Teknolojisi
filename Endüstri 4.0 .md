@@ -19,7 +19,8 @@ Endüstri4.0’ın adımları
 
 Endüstri 4.0, teknolojilerin ve değer zinciri organizasyonları kavramlarının kolektif bir bütünüdür. 
 Siber-Fiziksel sistemlerin kavramına, nesnelerin, internetine ve hizmetlerin internetine dayalıdır. 
-Bu yapı akıllı fabrikalar vizyonunun oluşmasına büyük katkı sağlar. Endüstri 4.0 genel olarak aşağıdaki 3 yapıdan oluşmaktadır.
+Bu yapı akıllı fabrikalar vizyonunun oluşmasına büyük katkı sağlar.
+Endüstri 4.0 genel olarak aşağıdaki 3 yapıdan oluşmaktadır.
 •	Nesnelerin İnterneti
 •	Hizmetlerin İnterneti
 •	Siber-Fiziksel Sistemler
