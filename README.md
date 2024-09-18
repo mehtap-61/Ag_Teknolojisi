@@ -2,9 +2,9 @@ ENDÜSTRİ 4.0 ve Endüstri 4.0 daki son adımı olan Siber etki
 
 Endüstri 4.0, ilk olarak Almanya’da Hannover Ticaret Fuarında kullanılan bir terimdir. 
 Endüstri 4.0‘da amaç bilişim sektörü ile endüstri sektörünü bir araya getirmektir. 
-Ana amaç; düşük maliyet, az enerji kullanımı, az yer kaplama, az ısı üretimi, yüksek hızlı çalışma ve yüksek verim ve kaliteli ürün çıkarmaktır. 
+Ana amaç ise düşük maliyet, az enerji kullanımı, az yer kaplama, az ısı üretimi, yüksek hızlı çalışma ve yüksek verim ve kaliteli ürün çıkarmaktır. 
 En olumlu yönü; anlık izlenebilirlik ve raporlara anlık ulaşılabilirliktir. 
-Bu sayede şeffaf üretim gerçekleştirilir.
+Böylece şeffaf üretim gerçekleştirilir.
 İnsansız, kendi kendilerine iletişim halinde olan makineler ile donatılan akıllı fabrikalar bu sistemin mihenk taşıdır. 
 Endüstri 4.0, üretim süreçlerini ucuzlatan, hızlandıran ve kişiye özel üretim imkânı sunan; enerji tüketimi, stok arzı ve
 hata unsurlarını en aza indirgeyen dijital üretim sistemi olarak görülmektedir. Bu yeni üretim sistemi dijital ve yüksek teknoloji ürünü robotlar kullanarak 
@@ -23,7 +23,6 @@ Bu yapı akıllı fabrikalar vizyonunun oluşmasına büyük katkı sağlar. End
 •	Nesnelerin İnterneti
 •	Hizmetlerin İnterneti
 •	Siber-Fiziksel Sistemler
-
 
  Endüstri 4.0 teknolojileri işletmelerin üretim süreçlerini daha akıllı, verimli ve esnek hale getirme hedeflerinde yardımcı olacak araçları tanımlanmaktadır.
  Bu teknolojiler aşağıdaki gibi sıralanabilir:
