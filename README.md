@@ -29,7 +29,10 @@ Bu yapı akıllı fabrikalar vizyonunun oluşmasına büyük katkı sağlar. End
  Bu teknolojiler aşağıdaki gibi sıralanabilir:
 
 •	Nesnelerin İnterneti (IoT - Internet of Things): Nesnelerin interneti, üretim sürecinde yer alan makine, ekipman ve ürünlerin internet üzerinden birbiriyle iletişim kurmasını sağlayan teknolojileri ifade etmektedir. Bu teknoloji sensörler ve bağlantılı cihazlar aracılığıyla veri toplama, izleme ve kontrol etme yeteneği sunmaktadır.
+
 •	Büyük Veri (Big Data) ve Veri Analitiği: Büyük veri teknolojisi çok miktarda veriyi işlemeyi ve analiz etmeyi mümkün kılmaktadır. Bu teknolojiyle beraber veriye dayalı kararlar kolayca alınabilirken süreç optimizasyonuna çokça katkı sağlamaktadır.
+
 •	Yapay Zekâ (AI) ve Makine Öğrenimi (Machine Learning): Yapay zekâ ve makine öğrenimi; verileri analiz etmek, öğrenmek ve kararlar almak için kullanılır. 
 Bu teknolojiler tahminler yaparak üretim sürecinde verimli yaklaşımlar ortaya koymaya yardımcı olurken otomasyon sürecini hızlandırabilmektedir.
+
 •	Bulut Teknolojisi (Cloud): Endüstri 4.0 teknolojilerinden bir diğeri olan bulut teknolojisi; büyük veri depolama, bu verileri işleme gücü ve analizi için kaynak sağlamaktadır.
