@@ -1,4 +1,4 @@
-#OSI MODELİ VE TCP MODELİ <br/>
+**OSI MODELİ VE TCP MODELİ** <br/>
 
 ![OSI_ve_TCP_modelleri](https://github.com/user-attachments/assets/8542530b-08e1-45a7-905f-6811dad61829) <br/>
 
@@ -17,7 +17,7 @@ Katman 2- Veri Bağlantısı Katmanı (Data Link): Hatalı veri iletimini düzel
 SLIP, PPP protokolleri veri bağlantısı katmanına örnek olarak verilebilir.
 Katman 1- Fiziksel Katman (Physical)    : Fiziksel iletim ortamı (kablolar, sinyaller) ile ilgilenir. IEEE 1394, DSL, ISDN protokolleri bu katmana örnek verilebilir.
 
-**TCP/IP MODELİ** <br/>
+*TCP/IP MODELİ* <br/>
 TCP ve IP protokollerinin birleştirilmesiyle oluşturulan ağ cihazlarını birbirine bağlamak ve internet üzerinden iletişim kurmak için kullanılan bir iletişim modelidir. 
 TCP/IP modeli 4 katmandan oluşmaktadır:
 -Link katmanı: OSI katmanındaki 1.katman olan Fiziksel katman ile 2.katman olan veri bağlantısı katmanı birleşerek oluşan katman (Ethernet, FDDI, Token Ring, ATM, OC, HSSI vb.)
