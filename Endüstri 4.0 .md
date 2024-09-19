@@ -9,8 +9,9 @@ En olumlu yönü; anlık izlenebilirlik ve raporlara anlık ulaşılabilirliktir
 Böylece şeffaf üretim gerçekleştirilir.
 İnsansız, kendi kendilerine iletişim halinde olan makineler ile donatılan akıllı fabrikalar bu sistemin mihenk taşıdır. 
 Endüstri 4.0, üretim süreçlerini ucuzlatan, hızlandıran ve kişiye özel üretim imkânı sunan; enerji tüketimi, stok arzı ve
-hata unsurlarını en aza indirgeyen dijital üretim sistemi olarak görülmektedir. Bu yeni üretim sistemi dijital ve yüksek teknoloji ürünü robotlar kullanarak 
-fabrikalarda iş gücünü azaltan bir yapıya sahiptir. Burada amaçlanan birbirleri ile haberleşebilen yapay zekâ robotların üretimde ana unsur olarak yer alması ve daha kaliteli, ucuz, hızlı ve israfı azaltan bir üretim yapılmasıdır.
+hata unsurlarını en aza indirgeyen dijital üretim sistemi olarak görülmektedir. Bu yeni üretim sistemi dijital ve yüksek teknoloji ürünü robotlar kullanarak fabrikalarda iş gücünü azaltan bir yapıya sahiptir. Burada amaçlanan birbirleri ile haberleşebilen yapay zekâ robotların üretimde ana unsur olarak yer alması ve daha kaliteli, ucuz, hızlı ve israfı azaltan bir üretim yapılmasıdır.
+
+Endüstri 4.0, üretim süreçlerinin dijitalleşmesi ve otomasyonunun artmasıyla karakterize edilen bir dönemi ifade eder. Bu süreçte IoT (Nesnelerin İnterneti), büyük veri, yapay zeka ve bulut bilişim gibi teknolojiler kullanılarak verimlilik ve üretkenlik artırılmaktadır. Ancak bu dijital dönüşüm, beraberinde önemli siber güvenlik risklerini de getirir.
 
 **Endüstri4.0’ın adımları** <br/>
 
@@ -42,3 +43,5 @@ Endüstri 4.0 teknolojileri işletmelerin üretim süreçlerini daha akıllı, v
 Bu teknolojiler tahminler yaparak üretim sürecinde verimli yaklaşımlar ortaya koymaya yardımcı olurken otomasyon sürecini hızlandırabilmektedir.
 
 •	Bulut Teknolojisi (Cloud): Endüstri 4.0 teknolojilerinden bir diğeri olan bulut teknolojisi; büyük veri depolama, bu verileri işleme gücü ve analizi için kaynak sağlamaktadır.
+
+Endüstri 4.0, birçok fırsat sunarken, siber güvenlik konusunda ciddi riskler de taşır. Bu nedenle, şirketlerin dijital dönüşüm stratejilerini oluştururken güvenlik önlemlerini de göz önünde bulundurmaları kritik öneme sahiptir. Etkili bir siber güvenlik stratejisi, hem üretim süreçlerinin sürdürülebilirliğini sağlar hem de şirketin rekabet gücünü artırır.
