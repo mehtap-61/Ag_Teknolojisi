@@ -1,10 +1,11 @@
-**OSI MODELİ VE TCP MODELİ** <br/>
+#OSI MODELİ VE TCP MODELİ <br/>
 
 ![OSI_ve_TCP_modelleri](https://github.com/user-attachments/assets/8542530b-08e1-45a7-905f-6811dad61829) <br/>
 
 OSI  (Open Systems Interconnection) ve TCP/IP (Transmission Control Protocol/Internet Protocol) bilgisayar ağları ve iletişim protokolleri ile ilgili iki önemli modeldir.
 
-**OSI Modeli** <br/>
+*OSI Modeli*<br/>
+
 OSI, yedi katmandan oluşan bir referans modelidir. Her katman, belirli bir işlevselliğe sahiptir ve ağ iletişimini standartlaştırmak için tasarlanmıştır. 
 
 Katman 7- Uygulama Katmanı(Application) : Kullanıcı uygulamaları ile doğrudan etkileşimde bulunmakta olan katmandır. HTTP, FTP, DNS SSH, Telnet gibi protokolller örnek olarak söylenebilir.
