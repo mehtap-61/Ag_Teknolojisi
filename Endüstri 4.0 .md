@@ -31,7 +31,8 @@ Endüstri 4.0 genel olarak aşağıdaki 3 yapıdan oluşmaktadır.<br/>
 
 ![Endüstri4 0'ın yapısı](https://github.com/user-attachments/assets/59927ed6-5977-46cc-967e-e5b80ceab62b)
 
- Endüstri 4.0 teknolojileri işletmelerin üretim süreçlerini daha akıllı, verimli ve esnek hale getirme hedeflerinde yardımcı olacak araçları tanımlanmaktadır. Bu teknolojiler aşağıdaki gibi sıralanabilir:
+Endüstri4.0'ın yapısı <br/>
+Endüstri 4.0 teknolojileri işletmelerin üretim süreçlerini daha akıllı, verimli ve esnek hale getirme hedeflerinde yardımcı olacak araçları tanımlanmaktadır. Bu teknolojiler aşağıdaki gibi sıralanabilir:
 
 •	Nesnelerin İnterneti (IoT - Internet of Things): Nesnelerin interneti, üretim sürecinde yer alan makine, ekipman ve ürünlerin internet üzerinden birbiriyle iletişim kurmasını sağlayan teknolojileri ifade etmektedir. Bu teknoloji sensörler ve bağlantılı cihazlar aracılığıyla veri toplama, izleme ve kontrol etme yeteneği sunmaktadır.
 
