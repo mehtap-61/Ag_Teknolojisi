@@ -1,6 +1,6 @@
-ENDÜSTRİ 4.0 
+# ENDÜSTRİ 4.0 
 
-Endüstri 4.0 ve  Siber Güvenlik İlişkisi
+*Endüstri 4.0 ve  Siber Güvenlik İlişkisi*
 
 Endüstri 4.0, ilk olarak Almanya’da Hannover Ticaret Fuarında kullanılan bir terimdir. 
 Endüstri 4.0‘da amaç bilişim sektörü ile endüstri sektörünü bir araya getirmektir. 
@@ -14,13 +14,13 @@ fabrikalarda iş gücünü azaltan bir yapıya sahiptir. Burada amaçlanan birbi
 
 **Endüstri4.0’ın adımları** <br/>
 
-![industry4 0_steps](https://github.com/user-attachments/assets/d80ea197-fd08-47e2-9887-39c2d94e482a)
+![industry4 0_steps](https://github.com/user-attachments/assets/d80ea197-fd08-47e2-9887-39c2d94e482a)<br/>
 
 
-*Birinci Endüstri Devrimi (1760-1830) Su ve buhar enerjisiyle çalışan makinelerin keşfi 
-*İkinci Endüstri Devrimi (1840-1973) Elektriğin keşfi, iş bölümü ve seri üretim mantığının oluşması 
-*Üçüncü Endüstri Devrimi (1974-2011) Otomasyon sistemlerinin kurulması, bilgi teknolojilerinin gelişimi 
-*Dördüncü Endüstri Devrimi (2011-…) Siber fiziksel sistemler ve bilginin üretimde hızlı transferi
+*Birinci Endüstri Devrimi (1760-1830) Su ve buhar enerjisiyle çalışan makinelerin keşfi <br/>
+*İkinci Endüstri Devrimi (1840-1973) Elektriğin keşfi, iş bölümü ve seri üretim mantığının oluşması <br/>
+*Üçüncü Endüstri Devrimi (1974-2011) Otomasyon sistemlerinin kurulması, bilgi teknolojilerinin gelişimi <br/>
+*Dördüncü Endüstri Devrimi (2011-…) Siber fiziksel sistemler ve bilginin üretimde hızlı transferi  <br/>
 
 Endüstri 4.0, teknolojilerin ve değer zinciri organizasyonları kavramlarının kolektif bir bütünüdür. 
 Siber-Fiziksel sistemlerin kavramına, nesnelerin, internetine ve hizmetlerin internetine dayalıdır. 
