@@ -1,8 +1,8 @@
-**OSI MODELİ VE TCP MODELİ** <br/>
+**OSI (Open Systems Interconnection) MODELİ VE TCP/IP (Transmission Control Protocol/Internet Protocol) MODELİ** <br/>
 
 ![OSI_ve_TCP_modelleri](https://github.com/user-attachments/assets/8542530b-08e1-45a7-905f-6811dad61829) <br/>
 
-OSI  (Open Systems Interconnection) ve TCP/IP (Transmission Control Protocol/Internet Protocol) bilgisayar ağları ve iletişim protokolleri ile ilgili iki önemli modeldir.
+OSI  ve TCP/IP  bilgisayar ağları ve iletişim protokolleri ile ilgili iki önemli modeldir.
 
 *OSI Modeli*<br/>
 
