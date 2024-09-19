@@ -25,7 +25,7 @@ Katman 1- Fiziksel Katman (Physical)    : Fiziksel iletim ortamı (kablolar, sin
 *TCP/IP MODELİ* <br/>
 TCP ve IP protokollerinin birleştirilmesiyle oluşturulan ağ cihazlarını birbirine bağlamak ve internet üzerinden iletişim kurmak için kullanılan bir iletişim modelidir. <br/>
 TCP/IP modeli 4 katmandan oluşmaktadır:<br/>
--Link katmanı: OSI katmanındaki 1.katman olan Fiziksel katman ile 2.katman olan veri bağlantısı katmanı birleşerek oluşan katman (Ethernet, FDDI, Token Ring, ATM, OC, HSSI vb.)<br/>
+-Link katmanı: OSI katmanındaki 1.katman olan fiziksel katman ile 2.katman olan veri bağlantısı katmanı bir araya gelerek bu katman oluşmuştur (Ethernet, FDDI, Token Ring, ATM, OC, HSSI vb.). <br/>
 -Ağ Katmanı: IP adresleme ve yönlendirme işlevlerini üstlenir (IPv4,IPv6,ICMP,ICMPv6,IGMPve IPsec, bu katmanda kullanılan bazı protokoller).<br/>
 -İletim Katmanı: Verilerin güvenilir bir şekilde iletilmesini sağlar (TCP, UDP).<br/>
--Uygulama (Application) Katmanı: TCP/IP modelinde, OSI Modelindeki Katman 5-6-7. katman Uygulama katmanında toplanmıştır.Kullanıcı uygulamalarının iletişim kurmasını sağlar (HTTP, FTP, SMTP).<br/>
+-Uygulama (Application) Katmanı: TCP/IP modelinde, OSI modelinde yer alan 5-6-7. katmanlar bir araya gelerek uygulama katmanında toplanmıştır.Kullanıcı uygulamalarının iletişim kurmasını sağlar (HTTP, FTP, SMTP).<br/>
