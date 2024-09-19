@@ -11,7 +11,7 @@ hata unsurlarını en aza indirgeyen dijital üretim sistemi olarak görülmekte
 fabrikalarda iş gücünü azaltan bir yapıya sahiptir. Burada amaçlanan birbirleri ile haberleşebilen yapay zekâ robotların üretimde ana unsur olarak yer alması ve daha kaliteli, ucuz, hızlı ve israfı azaltan bir üretim yapılmasıdır.
 
 Endüstri4.0’ın adımları
-
+![industry4.0_steps] (https://github.com/mehtap-61/Ag_Teknolojisi/blob/main/industry4.0_steps.jpg)
 *Birinci Endüstri Devrimi (1760-1830) Su ve buhar enerjisiyle çalışan makinelerin keşfi 
 *İkinci Endüstri Devrimi (1840-1973) Elektriğin keşfi, iş bölümü ve seri üretim mantığının oluşması 
 *Üçüncü Endüstri Devrimi (1974-2011) Otomasyon sistemlerinin kurulması, bilgi teknolojilerinin gelişimi 
