@@ -29,7 +29,7 @@ Endüstri 4.0 genel olarak aşağıdaki 3 yapıdan oluşmaktadır.<br/>
 •	Hizmetlerin İnterneti <br/>
 •	Siber-Fiziksel Sistemler <br/>
 
-[Endüstri4.0'ın yapısı] (https://github.com/mehtap-61/Ag_Teknolojisi/issues/4#issue-2537065489) <br/>
+![Endüstri4 0'ın yapısı](https://github.com/user-attachments/assets/59927ed6-5977-46cc-967e-e5b80ceab62b)
 
  Endüstri 4.0 teknolojileri işletmelerin üretim süreçlerini daha akıllı, verimli ve esnek hale getirme hedeflerinde yardımcı olacak araçları tanımlanmaktadır. Bu teknolojiler aşağıdaki gibi sıralanabilir:
 
