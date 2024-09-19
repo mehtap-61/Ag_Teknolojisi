@@ -1,4 +1,6 @@
-ENDÜSTRİ 4.0 ve Endüstri 4.0 daki son adımı olan Siber etki
+ENDÜSTRİ 4.0 
+
+Endüstri 4.0 ve  Siber Güvenlik İlişkisi
 
 Endüstri 4.0, ilk olarak Almanya’da Hannover Ticaret Fuarında kullanılan bir terimdir. 
 Endüstri 4.0‘da amaç bilişim sektörü ile endüstri sektörünü bir araya getirmektir. 
