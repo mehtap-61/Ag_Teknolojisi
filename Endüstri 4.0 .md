@@ -16,7 +16,6 @@ fabrikalarda iş gücünü azaltan bir yapıya sahiptir. Burada amaçlanan birbi
 
 ![industry4 0_steps](https://github.com/user-attachments/assets/d80ea197-fd08-47e2-9887-39c2d94e482a)<br/>
 
-
 *Birinci Endüstri Devrimi (1760-1830) Su ve buhar enerjisiyle çalışan makinelerin keşfi <br/>
 *İkinci Endüstri Devrimi (1840-1973) Elektriğin keşfi, iş bölümü ve seri üretim mantığının oluşması <br/>
 *Üçüncü Endüstri Devrimi (1974-2011) Otomasyon sistemlerinin kurulması, bilgi teknolojilerinin gelişimi <br/>
@@ -25,13 +24,15 @@ fabrikalarda iş gücünü azaltan bir yapıya sahiptir. Burada amaçlanan birbi
 Endüstri 4.0, teknolojilerin ve değer zinciri organizasyonları kavramlarının kolektif bir bütünüdür. 
 Siber-Fiziksel sistemlerin kavramına, nesnelerin, internetine ve hizmetlerin internetine dayalıdır. 
 Bu yapı akıllı fabrikalar vizyonunun oluşmasına büyük katkı sağlar.
-Endüstri 4.0 genel olarak aşağıdaki 3 yapıdan oluşmaktadır.
-•	Nesnelerin İnterneti
-•	Hizmetlerin İnterneti
-•	Siber-Fiziksel Sistemler
+Endüstri 4.0 genel olarak aşağıdaki 3 yapıdan oluşmaktadır.<br/>
+•	Nesnelerin İnterneti <br/>
+•	Hizmetlerin İnterneti <br/>
+•	Siber-Fiziksel Sistemler <br/>
+
 
  Endüstri 4.0 teknolojileri işletmelerin üretim süreçlerini daha akıllı, verimli ve esnek hale getirme hedeflerinde yardımcı olacak araçları tanımlanmaktadır.
- Bu teknolojiler aşağıdaki gibi sıralanabilir:
+
+Bu teknolojiler aşağıdaki gibi sıralanabilir:
 
 •	Nesnelerin İnterneti (IoT - Internet of Things): Nesnelerin interneti, üretim sürecinde yer alan makine, ekipman ve ürünlerin internet üzerinden birbiriyle iletişim kurmasını sağlayan teknolojileri ifade etmektedir. Bu teknoloji sensörler ve bağlantılı cihazlar aracılığıyla veri toplama, izleme ve kontrol etme yeteneği sunmaktadır.
 
