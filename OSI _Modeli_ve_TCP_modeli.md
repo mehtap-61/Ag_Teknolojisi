@@ -1,4 +1,4 @@
-**OSI (Open Systems Interconnection) MODELİ VE TCP/IP (Transmission Control Protocol/Internet Protocol) MODELİ** <br/>
+**OSI (Open Systems Interconnection) ve TCP/IP (Transmission Control Protocol/Internet Protocol) Modelleri** <br/>
 
 ![OSI_ve_TCP_modelleri](https://github.com/user-attachments/assets/8542530b-08e1-45a7-905f-6811dad61829) <br/>
 
