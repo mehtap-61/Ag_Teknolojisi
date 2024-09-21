@@ -1,5 +1,5 @@
 
-**Wireshark network çözümleyicisi**
+**Wireshark ağ çözümleyicisi**
 
 ![wireshark_programme](https://github.com/user-attachments/assets/eeada3b0-4c2d-4df8-bc2c-b8b9ccc8cdcc) <br/>
 
