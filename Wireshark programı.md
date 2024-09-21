@@ -18,13 +18,20 @@ Wireshark programı; ağ sorun giderme, analiz, yazılım ve iletişim protokol�
 *Wireshark programının kullanılma amaçları*
 
 1-Ağ bağlantı sorunlarını tespit etmek için kullanılabilir.
+
 2-Şüpheli aktiviteleri veya güvenlik ihlallerini tespit etmek için kullanılır.
+
 3-Farklı ağ protokollerinin nasıl çalıştığını anlamak için yararlıdır.
+
 4-Ağ iletişimi ve protokoller hakkında bilgi edinmek için ideal bir araçtır.
+
 
 *Wireshark programı ile nelere ulaşılır?*
 
 Ağdan geçen tüm paketlerin detaylı içeriğine ulaşılabilir.
+
 HTTP, TCP, UDP gibi farklı protokollerin analizine erişim sağlar.
+
 Belirli trafiği izlemek için gelişmiş filtreleme seçenekleri sunar.
+
 Paketlerin zamanlaması ve gecikmeleri hakkında bilgi verir.
