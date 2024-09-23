@@ -1,17 +1,17 @@
 BULUT BİLİŞİM(CLOUD COMPUTING)
 
 internet üzerinden sunulan bilgi işlem hizmetleridir. Kullanıcılar, veri depolama, sunucu, veritabanı, ağ, yazılım ve analitik gibi kaynaklara erişim sağlar.
-Bulut bilişimin başlıca avantajları arasında ölçeklenebilirlik, maliyet etkinliği, esneklik ve erişilebilirlik bulunur. <br/>
+Bulut bilişimin başlıca avantajları arasında ölçeklenebilirlik, maliyet etkinliği, esneklik ve erişilebilirlik bulunur.
 
-Bulut bilişim genellikle üç ana modele ayrılır:  <br/>
+Bulut bilişim genellikle üç ana modele ayrılır:  
 
 -Altyapı Hizmeti (IaaS): Sanal makineler ve depolama gibi temel altyapı kaynaklarını sağlar.
 - Platform Hizmeti (PaaS): Uygulama geliştirme ve dağıtım için platform sunar.
 - Yazılım Hizmeti (SaaS): Yazılımları internet üzerinden ( Google Workspace veya Microsoft 365 gibi) hizmet olarak sunar .
 
-*Bulut Bilişim Tabanlı Sistemler (Bulut Hizmetleri)*
+*Bulut Bilişim Tabanlı Sistemler (Bulut Hizmetleri): 
 
-Bulut Bilişim teknolojinin yaygınlaşmasında bu hizmeti veren farklı işletmelerin payları bir hayli büyüktür. işletmeler hem bireylere hem de tüzel kişiliklere hizmet sunmaktadırlar.
+Bulut Bilişim teknolojinin yaygınlaşmasında bu hizmeti veren farklı işletmeler  hem bireylere hem de tüzel kişiliklere hizmet sunmaktadırlar.
 
 *Microsoft Azure: Microsoft’ un sahip olduğu Windows Azure Platformu, Bulut Bilişim uygulamaları meydana getirmek ve yönetebilmek adına basit, güvenli ve kuvvetli bir sistemdir. 
 Bu sistem IaaS ve PaaS hizmet modellerini kapsamaktadır. Windows, Linux, SQL Server, Oracle, C#, Java gibi farklı yapıları desteklemektedir.
