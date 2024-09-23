@@ -3,29 +3,35 @@
 internet üzerinden sunulan bilgi işlem hizmetleridir. Kullanıcılar, veri depolama, sunucu, veritabanı, ağ, yazılım ve analitik gibi kaynaklara erişim sağlar.
 Bulut bilişimin başlıca avantajları arasında ölçeklenebilirlik, maliyet etkinliği, esneklik ve erişilebilirlik bulunur. <br/>
 
-![Bulut_bilisim](https://github.com/user-attachments/assets/4387757d-a1ca-4f46-ae00-3a1e19c33ac4)
-
 Bulut bilişim genellikle üç ana modele ayrılır:  <br/>
+
 * Altyapı Hizmeti (IaaS): Sanal makineler ve depolama gibi temel altyapı kaynaklarını sağlar.
 * Platform Hizmeti (PaaS): Uygulama geliştirme ve dağıtım için platform sunar.
 * Yazılım Hizmeti (SaaS): Yazılımları internet üzerinden ( Google Workspace veya Microsoft 365 gibi) hizmet olarak sunar .
 
 **Bulut Bilişim Tabanlı Sistemler (Bulut Hizmetleri)**
+
 Bulut Bilişim teknolojinin yaygınlaşmasında bu hizmeti veren farklı işletmelerin payları bir hayli büyüktür. işletmeler hem bireylere hem de tüzel kişiliklere hizmet sunmaktadırlar.
+
 *Microsoft Azure*
+
 Microsoft’ un sahip olduğu Windows Azure Platformu, Bulut Bilişim uygulamaları meydana getirmek ve yönetebilmek adına basit, güvenli ve kuvvetli bir sistemdir. 
-Bu sistem IaaS ve PaaS hizmet modellerini kapsamaktadır. Windows, Linux, SQL Server, Oracle, C#, Java gibi farklı yapıları desteklemektedir 
+Bu sistem IaaS ve PaaS hizmet modellerini kapsamaktadır. Windows, Linux, SQL Server, Oracle, C#, Java gibi farklı yapıları desteklemektedir.
+
 *Microsoft One Drive*
 Genelde gerçek kişilerin yani bireylerin kullanımı için hizmet vermektedir.Kullanıcılar bir Microsoft hesabı yardımıyla bu hizmeti kullanabilmektedirler.
+
 *Amazon*
 Amazon.com şirketince 2006 senesinde başlayan bir bulut bilişim platformudur.
+
 *Google Drive*
 Google Drive, Google’ın piyasaya sunduğu, Bulut Bilişimi kullanarak çevirim içi dosya depolama ve eşleştirme servisi görevini üstlenen parçasıdır.
+
 *Oracle*
 Oracle, Microsoft'tan sonra Dünya’nın en büyük ikinci yazılım firmasıdır. 
+
 *Dropbox*
-*Orangescape*
-2003 yılında Hindistan'da kurulmuş, iş uygulamalarını basitleştirme yönünde çalışmalar yaparak Bulut Bilişim platformu sağlayan bir firmadır. 2008 yılında PaaS sistemlerine geçiş yapan firma, Cloud Apps, SaaS veya şirket içi dağıtım yapabilecek türde uygulamaları geliştirmek için modelleme odaklı görsel bir
+*Orangescape* 2003 yılında Hindistan'da kurulmuş, iş uygulamalarını basitleştirme yönünde çalışmalar yaparak Bulut Bilişim platformu sağlayan bir firmadır. 2008 yılında PaaS sistemlerine geçiş yapan firma, Cloud Apps, SaaS veya şirket içi dağıtım yapabilecek türde uygulamaları geliştirmek için modelleme odaklı görsel bir
 geliştirme ortamı sunmaktadır.
 *Cloudturk*
 Ocak 2012’de Türkiye'de sunucu altyapı hizmet sağlayıcılığı yatırımını gerçekleştirdiğini duyurmuştur. Cloudturk 72 sunucu ile bulut hizmeti vermeye başlamıştır.  Bu hizmeti sağlamak için İstanbul Maltepe’de bulunan Anadolu Bilişim Veri Merkezi’ndeki sunucuları kullanmaktadır.
