@@ -9,9 +9,7 @@ Bulut bilişim genellikle üç ana modele ayrılır:
 - Platform Hizmeti (PaaS): Uygulama geliştirme ve dağıtım için platform sunar.
 - Yazılım Hizmeti (SaaS): Yazılımları internet üzerinden ( Google Workspace veya Microsoft 365 gibi) hizmet olarak sunar .
 
-Bulut Bilişim Tabanlı Sistemler (Bulut Hizmetleri): 
-
-Bulut Bilişim teknolojinin yaygınlaşmasında bu hizmeti veren farklı işletmeler  hem bireylere hem de tüzel kişiliklere hizmet sunmaktadırlar.
+Bulut Bilişim Tabanlı Sistemler (Bulut Hizmetleri): Bulut Bilişim teknolojinin yaygınlaşmasında bu hizmeti veren farklı işletmeler  hem bireylere hem de tüzel kişiliklere hizmet sunmaktadırlar.
 
 -Microsoft Azure: Microsoft’ un sahip olduğu Windows Azure Platformu, Bulut Bilişim uygulamaları meydana getirmek ve yönetebilmek adına basit, güvenli ve kuvvetli bir sistemdir. 
 Bu sistem IaaS ve PaaS hizmet modellerini kapsamaktadır. Windows, Linux, SQL Server, Oracle, C#, Java gibi farklı yapıları desteklemektedir.
