@@ -1,6 +1,5 @@
 **P2P (Peer to peer) -istemci sunucusu**
 
-
 Merkezi bir sunucu gibi bir üçüncü taraf olmadan kullanıcıların doğrudan birbirleri arasında gerçekleştirdiği veri paylaşımını ifade eder. 
 
 Bilgisayarındaki blokzinciri yazılımındaki verilerde oynama yapılırsa veya siber saldırıya uğrarsa bile diğer herkeste aynı kayıtlar olduğu için ağdaki üyelerin çoğunluğu tarafından bu değişiklik reddedilebilir.
@@ -9,11 +8,11 @@ Peer to peer yani eşler arası transfere olanak sağlayan blokzinciri için bu 
 
 P2P teknolojisi, birçok farklı alanda kullanılabilir. Bunlardan bazıları şunlardır:
 
-*Dosya paylaşımı* : BitTorent gibi programlar, kullanıcıların büyük dosyaları hızlı bir şekilde paylaşmasını sağlar.
+- Dosya paylaşımı : BitTorent gibi programlar, kullanıcıların büyük dosyaları hızlı bir şekilde paylaşmasını sağlar.
 
-*Kripto Paralar*  : Bitcoin ve diğer kripto paralar P2Pteknolojisi sayesinde merkezi bir otoriteye ihtiyaç duymadan işlem yapabilir.
+- Kripto Paralar  : Bitcoin ve diğer kripto paralar P2Pteknolojisi sayesinde merkezi bir otoriteye ihtiyaç duymadan işlem yapabilir.
 
-*Mesajlaşma Uygulamaları* : Bazı mesajlaşma uygulamaları(Keet gibi program uygulamaları), kullanıcılar arasında doğrudan bağlantı kurarak daha güvenli iletişim sağlar.
+- Mesajlaşma Uygulamaları : Bazı mesajlaşma uygulamaları(Keet gibi program uygulamaları), kullanıcılar arasında doğrudan bağlantı kurarak daha güvenli iletişim sağlar.
 
 
 
