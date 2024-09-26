@@ -6,17 +6,15 @@ Bilgisayarındaki blokzinciri yazılımındaki verilerde oynama yapılırsa veya
 
 Peer to peer yani eşler arası transfere olanak sağlayan blokzinciri için bu nedenle güvenlidir.
 
-Bitcoin blokzinciri de kullanıcıların herhangi bir merkezi otoriteye ihtiyaç duymadan birbirleri arasında nakit transferi yapmalarını sağlayan peer to peer (P2P) bir sistemdir.
-
-Kullanıcılar şifrelenmiş şekilde Bitcoin transferi yaparlar. 
-
-Tüm yapılan Bitcoin transfer işlemleri dağıtık defterlere kaydedilir ve Bitcoin blokzinciri ağına bağlı kullanıcılar bu defterlerdeki kayıtların doğruluğunu kontrol ederler.
-
 P2P teknolojisi, birçok farklı alanda kullanılabilir. Bunlardan bazıları şunlardır:
 
 *Dosya paylaşımı* : BitTorent gibi programlar, kullanıcıların büyük dosyaları hızlı bir şekilde paylaşmasını sağlar.
+
 *Kripto Paralar*  : Bitcoin ve diğer kripto paralar P2Pteknolojisi sayesinde merkezi bir otoriteye ihtiyaç duymadan işlem yapabilir.
+
 *Mesajlaşma Uygulamaları* : Bazı mesajlaşma uygulamaları(Keet gibi program uygulamaları), kullanıcılar arasında doğrudan bağlantı kurarak daha güvenli iletişim sağlar.
+
+P2P’nin avantaj ve dezavantajları aşağıdaki tabloda açıklanmıştır.
 
 
 
