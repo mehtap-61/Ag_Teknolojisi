@@ -1,4 +1,4 @@
-*TCP (Transmission control protocol) ve UDP(User datagram protocol)*
+**TCP (Transmission control protocol) ve UDP(User datagram protocol)**
 
 TCP iletim kontrol protokü iken, UDP kullanıcı veri protokolüdür.
 
