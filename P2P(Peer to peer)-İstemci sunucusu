@@ -2,7 +2,7 @@
 
 Merkezi bir sunucu gibi bir üçüncü taraf olmadan kullanıcıların doğrudan birbirleri arasında gerçekleştirdiği veri paylaşımını ifade eder. 
 
-Bilgisayarındaki blokzinciri yazılımındaki verilerde oynama yapılırsa veya siber saldırıya uğrarsa bile diğer herkeste aynı kayıtlar olduğu için ağdaki üyelerin çoğunluğu tarafından bu değişiklik reddedilebilir.
+Bilgisayarın blokzinciri yazılımındaki verilerde oynama yapılırsa veya siber saldırıya uğrarsa bile diğer herkeste aynı kayıtlar olduğu için ağdaki üyelerin çoğunluğu tarafından bu değişiklik reddedilebilir.
 
 Peer to peer yani eşler arası transfere olanak sağlayan blokzinciri için bu nedenle güvenlidir.
 
@@ -13,7 +13,3 @@ P2P teknolojisi, birçok farklı alanda kullanılabilir. Bunlardan bazıları ş
 - Kripto Paralar  : Bitcoin ve diğer kripto paralar P2Pteknolojisi sayesinde merkezi bir otoriteye ihtiyaç duymadan işlem yapabilir.
 
 - Mesajlaşma Uygulamaları : Bazı mesajlaşma uygulamaları(Keet gibi program uygulamaları), kullanıcılar arasında doğrudan bağlantı kurarak daha güvenli iletişim sağlar.
-
-
-
-
