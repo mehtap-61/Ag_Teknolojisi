@@ -7,11 +7,15 @@ Siber güvenliğin önemli alt alanlarından biri olarak kabul edilmektedir.
 Ağ erişilebilirliği, bütünlüğü, sürekliliği ve güvenilirliğini sağlamak için mimarinin/altyapının sistem tasarımı, işletimi ve yönetimine odaklanır.
 Trafik analizi (genellikle Ağ Trafik Analizi olarak adlandırılır), Ağ Güvenliği alanının bir alt alanıdır ve birincil odak noktası, sorunları ve anormallikleri belirlemek için ağ verilerini araştırmaktır.
 Bu oda, Ağ Güvenliği ve Trafik analizinin temellerini kapsayacak ve Trafik/Paket Analizine adım atmanıza yardımcı olmak için bu disiplinlerin temel kavramlarını tanıtacaktır. 
+
 Bu odada çalışmaya başlamadan önce “Ağ Temelleri” modülünü tamamlamanızı öneririz.
 
 ![Try_hackme_Görev-1](https://github.com/user-attachments/assets/c904c7e4-cbaa-4b53-99f3-83862dc11da0)
 
+
 **Görev2-Network Security and Network Data (Ağ Güvenliği ve Ağ Veri)**
+
+
 ![networksecurity](https://github.com/user-attachments/assets/beaa79bd-203e-429b-bc65-7647b841ce69)
 
 *Ağ Güvenliği*
@@ -22,21 +26,29 @@ Ağ güvenliği operasyonları, mevcut maksimum güvenlik yönetimini sağlamak 
 
 *Temel Ağ Güvenlik Kontrol Düzeyleri:*
 
+
 ![Temel_ag_güvenigi_kontrol](https://github.com/user-attachments/assets/8a3a0078-04b7-41f4-a12a-f75929e49dd5)
 
+
 Bu kontrol seviyeleri altında iki ana yaklaşım ve birden fazla unsur bulunmaktadır.
+
 Ağ güvenliği operasyonlarında kullanılan en yaygın unsurlar aşağıda açıklanmıştır.
 
 Ana yaklaşımlar:
 
 ![Ana_yaklasinlar](https://github.com/user-attachments/assets/258d17fc-e64d-4780-9a01-5e46706f5068)
 
+
 *Erişim Kontrolünün temel unsurları:*
+
 
 ![Erisim_kontrolu_temel_unsurlar](https://github.com/user-attachments/assets/409b08bc-b909-4b5e-80fa-8dc3c2f83325)
 
+
 **Tehdit Kontrolünün temel unsurları:**
+
 ![Tehdit_kontrolu_unsur](https://github.com/user-attachments/assets/f00e5b29-ac75-425e-8b14-dff4646c563d)
+
 
 *Tipik Ağ Güvenlik Yönetimi İşlemi verilen tabloda açıklanmıştır:*
 
@@ -50,7 +62,9 @@ Bu noktada, güvenlik ihtiyaçlarını sağlamak/geliştirmek için gereken çab
 MSS'ler, hizmet sağlayıcılara dış kaynaklı olarak verilen hizmetlerdir.
 Bu hizmet sağlayıcılara Yönetilen Güvenlik Hizmet Sağlayıcıları (MSSP'ler) denir. 
 Günümüzde, çoğu MSS zaman ve maliyet açısından etkilidir, şirket içinde veya dış kaynaklı olarak yürütülebilir, katılımı kolaydır ve yönetim sürecini kolaylaştırır. 
+
 MSS'nin çeşitli unsurları vardır ve en yaygın olanları aşağıda açıklanmıştır.
+
 ![yonetilen_guvenlik_hizmetleri](https://github.com/user-attachments/assets/2fb11aa0-c939-4e74-a55b-4cba66007bf1)
 
 **Which Security Control Level covers contain creating security policies? (Hangi Güvenlik Kontrol Seviyesi güvenlik politikalarının oluşturulmasını kapsar?)**
@@ -63,6 +77,7 @@ MSS'nin çeşitli unsurları vardır ve en yaygın olanları aşağıda açıkla
 **Cevap:** Security Orchestration Automation and Response (Güvenlik Orkestrasyon Otomasyonu ve Yanıtı (SOAR))
 
 **Görev-3 Trafik Analiz**
+
 ![Trafik_analiz](https://github.com/user-attachments/assets/e96a3f28-217f-47d3-88e5-de93075c8333)
 
 *Trafik Analizi / Ağ Trafik Analizi**
