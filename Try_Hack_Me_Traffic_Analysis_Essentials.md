@@ -122,8 +122,9 @@ Artık Trafik Analizinin ne olduğunu ve nasıl çalıştığını biliyorsunuz.
 
 
 **Görev 4- Sonuç**
-Tebrikler! "Trafik Analizi Temelleri" odasını yeni bitirdiniz.
-Bu odada, ağ güvenliği ve trafik analizi kavramlarının temellerini ele aldık:
+
+"Trafik Analizi Temelleri" odasını yeni bitirdiniz.
+Bu odada, ağ güvenliği ve trafik analizi kavramlarının temellerini ele alındı:
 	Ağ Güvenliği İşlemleri
 	Ağ Trafik Analizi
 Artık "Ağ Güvenliği ve Trafik Analizi" modülünü tamamlamaya hazırsınız.
