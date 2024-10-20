@@ -6,9 +6,9 @@ Ağ Güvenliği, ağa bağlı veri, uygulama, cihaz ve sistemlerin korunmasına 
 Siber güvenliğin önemli alt alanlarından biri olarak kabul edilmektedir. 
 Ağ erişilebilirliği, bütünlüğü, sürekliliği ve güvenilirliğini sağlamak için mimarinin/altyapının sistem tasarımı, işletimi ve yönetimine odaklanır.
 Trafik analizi (genellikle Ağ Trafik Analizi olarak adlandırılır), Ağ Güvenliği alanının bir alt alanıdır ve birincil odak noktası, sorunları ve anormallikleri belirlemek için ağ verilerini araştırmaktır.
-Bu oda, Ağ Güvenliği ve Trafik analizinin temellerini kapsayacak ve Trafik/Paket Analizine adım atmanıza yardımcı olmak için bu disiplinlerin temel kavramlarını tanıtacaktır. 
+Bu oda, Ağ Güvenliği ve Trafik analizinin temellerini kapsayacak ve Trafik/Paket Analizine adım atmanıza yardımcı olmak için bu disiplinlerin temel kavramlarını tanıtılmıştır. 
 
-Bu odada çalışmaya başlamadan önce “Ağ Temelleri” modülünü tamamlamanızı öneririz.
+Bu odada çalışmaya başlamadan önce “Ağ Temelleri” modülünü tamamlamanızı önermektedir.
 
 ![Try_hackme_Görev-1](https://github.com/user-attachments/assets/c904c7e4-cbaa-4b53-99f3-83862dc11da0)
 
